@@ -16,11 +16,15 @@
 
 [https://ugcatt.smcdn.cn/rquDITqKNibrVwcf.txt?auth_key=1618830835-P7adNPD0yGz9GRKz-0-77ad0ac116834f5cb43385b4dc11434f&response-content-disposition=inline%3B+filename%3D%22TG%2540baipiaojiedian.txt%22%3B+filename%2A%3DUTF-8%27%27TG%2540baipiaojiedian.txt](https://ugcatt.smcdn.cn/rquDITqKNibrVwcf.txt?auth_key=1618830835-P7adNPD0yGz9GRKz-0-77ad0ac116834f5cb43385b4dc11434f&response-content-disposition=inline%3B+filename%3D%22TG%2540baipiaojiedian.txt%22%3B+filename%2A%3DUTF-8%27%27TG%2540baipiaojiedian.txt)
 
-#4月22日更新
+4月22日更新
 
 [https://api.suda.cat/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2FJACKUSR2089%2Fv2ray-subscribed%2Fmaster%2Fsubscribed%2F2021-4-22&insert=false](https://api.suda.cat/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2FJACKUSR2089%2Fv2ray-subscribed%2Fmaster%2Fsubscribed%2F2021-4-22&insert=false)
 
 
 ## v2ray订阅
 
-# 4月22日更新  https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/subscribed/2021-4-22
+4月22日更新  https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/subscribed/2021-4-22
+
+
+
+## 加QQ群 [948528348](https://qm.qq.com/cgi-bin/qm/qr?k=qbcIrsKAyjzsOqzlCCnHgA6-PKmDGAz-&jump_from=webapi)
