@@ -26,6 +26,8 @@
 
 [https://drive.google.com/uc?export=download&id=1RxX2unRKCaZ8V6p7nlvZhuY_3dC97dpE](https://drive.google.com/uc?export=download&id=1RxX2unRKCaZ8V6p7nlvZhuY_3dC97dpE)
 
+[https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0430clash.yml](https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0430clash.yml)
+
 
 ## v2ray订阅
 
