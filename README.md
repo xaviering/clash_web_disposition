@@ -20,6 +20,9 @@
 
 [https://api.suda.cat/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2FJACKUSR2089%2Fv2ray-subscribed%2Fmaster%2Fsubscribed%2F2021-4-22&insert=false](https://api.suda.cat/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2FJACKUSR2089%2Fv2ray-subscribed%2Fmaster%2Fsubscribed%2F2021-4-22&insert=false)
 
+#5月5日更新
+[https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0502clash.yml](https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0502clash.yml)
+
 
 ## v2ray订阅
 
