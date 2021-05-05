@@ -28,6 +28,8 @@
 
 [https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0430clash.yml](https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0430clash.yml)
 
+[https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0503clash.yml](https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0503clash.yml)
+
 
 ## v2ray订阅
 
